@@ -18,4 +18,12 @@
 
 <h3>How to Use</h3>
 1.Clone this repository:<br>
+&nbsp&nbsp<b>https://github.com/DulajHansana/Skin-Cancer-Prediction.git</b><br>
+2.Install the required dependencies:<br>
+&nbsp&nbsp<b>pip install -r requirements.txt</b><br>
+3.Run the Jupyter notebook:<br>
+&nbsp&nbsp<b>jupyter notebook Skin_Cancer_Prediction.ipynb</b><br>
+4.Follow the steps in the notebook to preprocess the data, train the model, and make predictions.
+
+
 
